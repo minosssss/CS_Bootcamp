@@ -6,4 +6,3 @@ if __name__ == "__main__":
     x = 10#1
     change_value(x, 20)#2
     print("x : {} in main".format(x))
-

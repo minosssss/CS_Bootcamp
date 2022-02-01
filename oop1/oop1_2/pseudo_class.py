@@ -21,6 +21,7 @@ Person = person_init, give_money, get_money, show
 
 if __name__ == "__main__":
     # 객체 생성
+    print(Person)
     g = Person[0]('greg', 5000)  #5
     j = Person[0]('john', 2000)
 
